@@ -74,7 +74,7 @@
             @endif
             <ul class="list-inline">
               <li class="list-inline-item">
-                <h6>Hãng:</h6>
+                <h6>Tác Giả:</h6>
               </li>
               <li class="list-inline-item">
                 <p class="text-muted"><strong>{{ $book->brand_name }}</strong></p>

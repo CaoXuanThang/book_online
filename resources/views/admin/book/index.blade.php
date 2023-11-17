@@ -10,7 +10,7 @@
       <tr>
         <th scope="col">id</th>
         <th scope="col">Danh mục</th>
-        <th scope="col">Hãng</th>
+        <th scope="col">Tác Giả</th>
         <th scope="col">Mã Phiếu giảm</th>
         <th scope="col">Tên</th>
         <th scope="col">Ảnh</th>
